@@ -2,7 +2,7 @@
 
 # Number Guessing Game
 
-This is a simple number guessing game implemented in JavaScript. The game generates a random number, and the player's objective is to guess that number correctly. The game provides feedback to the player after each guess, guiding them to find the correct number.
+This is a simple number-guessing game implemented in JavaScript. The game generates a random number, and the player's objective is to guess that number correctly. The game provides feedback to the player after each guess, guiding them to find the correct number.
 
 ## How to Play
 
@@ -19,7 +19,7 @@ This is a simple number guessing game implemented in JavaScript. The game genera
     node index.js
 5. You will be prompted to enter your guesses. The game will provide feedback after each guess, indicating whether your guess is correct, too high, or too low.
 6. Keep guessing until you find the correct number!
-7. 
+
 ## Code Structure
 The game uses the inquirer library to capture user input and the chalk library to add colored output.
 
@@ -35,8 +35,8 @@ A counter keeps track of the number of guesses.
 
 ## Dependencies
 
-inquirer: For capturing user input.
-chalk: For adding colored output to the console.
+### inquirer: For capturing user input.
+### chalk: For adding colored output to the console.
 
 Author
 Nazneen Akram
